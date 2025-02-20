@@ -37,7 +37,7 @@ Sigue estos pasos para instalar y ejecutar SlickMercy.py en Termux:
 ### Paso 4: Clonar el Repositorio
 1. Clona el repositorio desde GitHub 
  ```bash
-cd storage/download/
+cd storage/downloads/
 ls
 git clone https://github.com/SlickxMercy/WeakPassword
    ```
@@ -49,7 +49,7 @@ pip install requests aiohttp pycryptodome
 ### Paso 6 Ejecutar Script 
 1. acceder a la carpeta y ejecutar script
 ```bash
-cd storage/download/WeakPassword
+cd storage/downloads/WeakPassword
 ls
 python SlickMercy.py
 ```
