@@ -49,7 +49,7 @@ pip install requests aiohttp pycryptodome
 ### Paso 6 Ejecutar Script 
 1. acceder a la carpeta y ejecutar script
 ```bash
-cd storage/downloads/WeakPassword
+cd WeakPassword
 ls
 python SlickMercy.py
 ```
